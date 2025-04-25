@@ -91,3 +91,4 @@ The **Text Generation App** is a simple yet powerful tool that demonstrates the 
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/7279834e-38d8-47c2-beb8-41ac63136d6e)
